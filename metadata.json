@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster 3D Chess",
+  "description": "A fully immersive 3D chess experience powered by Gemini 3 Pro for advanced AI move analysis and tactical advice. Features a beautiful responsive 3D board with smooth animations and a minimalist aesthetic.",
+  "requestFramePermissions": []
+}
